@@ -2,6 +2,8 @@
 
 這個專案是用來提供測試寄送mail的demo程式碼。
 
+詳細資料可以參考：[沒有mail server怎麼測試寄送email？快放過你的gmail來看看有那些可以測試用的smtp mail server](http://to.alantsai.net/20171205-blog)
+
 ## 快速使用 (getting started)
 
 把程式碼clone下來或者下載下來，用Visual Studio打開，修改`App.config`測試不同寄送mail的方式。
